@@ -1,3 +1,5 @@
 karaage
 ramen
 sushi
+pasta
+rice
